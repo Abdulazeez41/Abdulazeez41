@@ -1,4 +1,5 @@
-
+# 💫About Me :
+A blockchain developer aspiring to build tools used in a decentralized economy.                                                                                            
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdulazeez-muhammad-salihu-60a9b419a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUbz790U6SCmmQTUX7vkiAQ%3D%3D) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@dulaz43) 
 
